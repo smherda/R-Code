@@ -1,4 +1,4 @@
-# Python-Example-Code
+# R-Example-Code
 
 This folder contains example code used for projects that I have worked on and were built using R.  
  
