@@ -1,6 +1,6 @@
-# R-Example-Code
+# R-Code
 
-This folder contains example code used for projects that I have worked on and were built using R.  
+This folder contains R code I wrote for projects.  
  
 ## Installation
  
